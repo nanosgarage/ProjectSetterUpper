@@ -1,0 +1,2 @@
+#For autocomplete with blender's bpy module.
+fake-bpy-module

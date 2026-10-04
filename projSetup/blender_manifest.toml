@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "project_setup"
+version = "1.0.0"
+name = "Project Setterupper"
+tagline = "Quickly create a project structure with predefined setttings within one window."
+maintainer = "nanosgarage"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Pipeline"]
+
+[permissions]
+files = "Create project folders and save blend files"
