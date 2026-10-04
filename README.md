@@ -1,4 +1,4 @@
-![Window showing functionality within Blender]([https://imgur.com/aV2AoyM])
+![Window showing functionality within Blender](https://imgur.com/aV2AoyM)
 
 *Project SetterUpper* aims to speed up the tedious task of creating project directories when setting up a new project.
 This might be tailored specifically to my workflow, but for the most part I find it annoying having to sift through Blender's sluggish file manager to routinely set up new projects when working with the program.
