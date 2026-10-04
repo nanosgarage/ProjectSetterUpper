@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "project_setup"
 version = "1.0.0"
 name = "Project Setterupper"
-tagline = "Quickly create a project structure with predefined setttings within one window."
+tagline = "Quickly setup a project"
 maintainer = "nanosgarage"
 type = "add-on"
 
